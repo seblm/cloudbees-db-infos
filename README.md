@@ -11,7 +11,7 @@ Run these commands
     $ bees app:bind   --appid <account-name>/cloudbees-db-infos --alias mydb --database <database-name>
     $ bees app:deploy --appid <account-name>/cloudbees-db-infos --message "first deploy" target/cloudbees-db-infos-1.0-SNAPSHOT.war
 
-You can now see MySQL host, user and password of your cloudbees database : http://cloudbees-db-infos.<account-name>.cloudbees.net
+You can now see MySQL host, user and password of your cloudbees database : [http://cloudbees-db-infos.&lt;account-name&gt;.cloudbees.net](http://cloudbees-db-infos.%3Caccount-name%3E.cloudbees.net)
 
 ### Prerequisite
 
